@@ -44,7 +44,7 @@
 - [ ] Order more AAA Batteries
 ### Electronics
 ### Code
-- [ ] Fix points, automatically assume edges
+- [x] Fix points, automatically assume edges
 
 ### Testing
 - [ ] Test new code
