@@ -1,4 +1,4 @@
-# Adgenda
+# Agenda
 
 ## Urgent Builds
 - [ ] Peter
