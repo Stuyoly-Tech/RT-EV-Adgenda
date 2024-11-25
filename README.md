@@ -1,8 +1,8 @@
 # Adgenda
 
 ## Urgent Builds
-- [ ] 
-- [ ] 
+- [ ] Peter
+- [ ] Newbie EV
 
 ## EV: Jake 
 ### CAD-Hardware
