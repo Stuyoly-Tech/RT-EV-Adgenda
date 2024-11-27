@@ -46,7 +46,7 @@
 - [x] Fix points, automatically assume edges
 
 ### Testing
-- [ ] Test new code
+- [x] Test new code
 
 ## RT: Peter
 ### CAD-Hardware
