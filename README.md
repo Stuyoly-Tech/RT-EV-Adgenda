@@ -6,9 +6,8 @@
 
 ## EV: Jake 
 ### CAD-Hardware
-- [ ] Draft CAD-Hardware
-- [ ] Finalized Design
-- [ ] Find Parts
+- [ ] Find AA battery max current
+- [ ] Find suitable candidates for BLDC
 
 ### Electronics
 - [ ] Parts
