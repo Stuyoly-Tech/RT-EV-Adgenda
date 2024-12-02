@@ -6,15 +6,28 @@
 
 ## EV: Jake 
 ### CAD-Hardware
-- [ ] Find AA battery max current
-- [ ] Find suitable candidates for BLDC
+- [x] Find AA battery max current
+- [x] Find suitable candidates for BLDC
+- [x] Do prelim calculations
+- [ ] Find ways to metal 3dp pulleys
+- [ ] Find bearings for pulleys, wheels, etc
+- [ ] Figure out bearing mounting
+- [ ] Find EDF for suction
+- [ ] Figure out how to make skirts for suction
+- [ ] Order banebots wheels
+- [ ] Order banebots hubs
+- [ ] Find shafts
+- [ ] Find Belts
+- [ ] Finish CAD
+- [ ] See if screws are needed
 
 ### Electronics
+- [ ] Find ESC
 - [ ] Parts
 - [ ] Schematics
 
 ### Code
-- [ ] Make repo
+- [x] Make repo
 
 ### Testing
 
@@ -40,7 +53,7 @@
 
 ## RT: Robert
 ### CAD-Hardware
-- [ ] Order more AAA Batteries
+- [x] Order more AAA Batteries
 ### Electronics
 ### Code
 - [x] Fix points, automatically assume edges
