@@ -22,7 +22,7 @@
 - [ ] See if screws are needed
 
 ### Electronics
-- [ ] Find ESC
+- [x] Find ESC
 - [ ] Parts
 - [ ] Schematics
 
